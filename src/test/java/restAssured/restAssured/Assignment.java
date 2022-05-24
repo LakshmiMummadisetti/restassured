@@ -74,7 +74,7 @@ public class Assignment {
 	public void testcase7() throws FileNotFoundException {
 		RestAssured.baseURI = "https://petstore.swagger.io/v3";
 
-		res = given().header("content-type", "application/json").pathParam("username", "LakccshmiM").when()
+		res = given().header("content-type", "application/json").pathParam("username", "sai").when()
 				.get("/user/{username}").then().statusCode(404).log().all().extract().response();
 	}
 }
