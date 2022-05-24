@@ -1,7 +1,15 @@
 {
     "username": "sai",
-    "firstName": "Lakshmcci",
-    "lastName": "Kuccmari",
+    "firstName": "SaiPrathap",
+    "lastName": "Reddy",
+    "email": "xyz@abc.com",
+    "password": "passwordfindme",
+    "phone": "9087654321"
+}
+{
+    "username": "Chervik",
+    "firstName": "Chervik",
+    "lastName": "kathi",
     "email": "xyz@abc.com",
     "password": "passwordfindme",
     "phone": "9087654321"

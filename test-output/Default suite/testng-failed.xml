@@ -5,7 +5,7 @@
     <classes>
       <class name="restAssured.restAssured.Assignment">
         <methods>
-          <include name="testcase3"/>
+          <include name="testcase7"/>
         </methods>
       </class> <!-- restAssured.restAssured.Assignment -->
     </classes>
